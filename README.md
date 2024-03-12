@@ -1,2 +1,0 @@
-# usersvc
-user service
